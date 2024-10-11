@@ -3,3 +3,5 @@ description: Here you can find a collection of my cybersecurity, system administ
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-seo-tag
