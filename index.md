@@ -7,16 +7,17 @@ layout: default
 <a href="project_pdfs/Azure Security Capstone Project.pdf" style="color: #0080ff; text-decoration: underline;">Managing users, setting up an encrypted storage account, and configuring network security groups in Azure
 </a>
 
-## Querying log data with Splunk
+<a href="project_pdfs/Performing Queries Using Splunk" style="color: #0080ff; text-decoration: underline;">Querying log data with Splunk</a>
 
-## Querying log data with Google Chronicle
+<a href="project_pdfs/Performing Queries Using Google Chronicle.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Google Chroniclek</a>
 
-## Analysing network traffic with Tcpdump
+<a href="project_pdfs/Tcpdump Packet Analysis - Google VM.pdf" style="color: #0080ff; text-decoration: underline;">Analysing network traffic with Tcpdump</a>
 
-## Analysing network traffic with and Wireshark
+<a href="project_pdfs/Wireshark Packet Analysis - Google VM.pdf" style="color: #0080ff; text-decoration: underline;">Analysing network traffic with and Wireshark</a>
 
-## Constructing a Python algorithm which updates a list of IP addresses with access to restricted content
+<a href="project_pdfs/Algorithm-for-file-updates-in-Python_complete.pdf" style="color: #0080ff; text-decoration: underline;">Constructing a Python algorithm which updates a list of IP addresses with access to restricted content</a>
 
-## Utilising SQL queries to investigate security events
+<a href="project_pdfs/Apply-filters-to-SQL-queries_complete.pdf" style="color: #0080ff; text-decoration: underline;">Utilising SQL queries to investigate security events</a>
  
-## Updating file permissions by using the Linux command line
+<a href="project_pdfs/File-permissions-in-Linux_complete.pdf" style="color: #0080ff; text-decoration: underline;">Updating file permissions by using the Linux command line
+</a>
