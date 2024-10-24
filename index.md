@@ -7,9 +7,9 @@ layout: default
 <a href="project_pdfs/Azure Security Capstone Project.pdf" style="color: #0080ff; text-decoration: underline;">Managing users, setting up an encrypted storage account, and configuring network security groups in Azure
 </a>
 
-<a href="project_pdfs/Performing Queries Using Splunk" style="color: #0080ff; text-decoration: underline;">Querying log data with Splunk</a>
+<a href="project_pdfs/Performing Queries Using Splunk.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Splunk</a>
 
-<a href="project_pdfs/Performing Queries Using Google Chronicle.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Google Chroniclek</a>
+<a href="project_pdfs/Performing Queries Using Google Chronicle.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Google Chronicle</a>
 
 <a href="project_pdfs/Tcpdump Packet Analysis - Google VM.pdf" style="color: #0080ff; text-decoration: underline;">Analysing network traffic with Tcpdump</a>
 
