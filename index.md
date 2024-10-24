@@ -2,16 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Managing users, setting up an encrypted storage account, and configuring network security groups in Azure
 
-[Link to another page](./another-page.html).
+# Querying log data with SIEM tools such as Splunk and Google Chronicle
 
-There should be whitespace between paragraphs.
+# Analysing network traffic with Tcpdump
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Analysing network traffic with and Wireshark
 
-# Header 1
+# Constructing a Python algorithm which updates a list of IP addresses with access to restricted content
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+# Utilising SQL queries to investigate security events
+ 
+# Updating file permissions by using the Linux command line
