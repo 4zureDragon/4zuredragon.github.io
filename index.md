@@ -2,11 +2,13 @@
 layout: default
 ---
 
-#Key Project
+# Key Projects
 
 ## Managing users, setting up an encrypted storage account, and configuring network security groups in Azure
 
-## Querying log data with SIEM tools such as Splunk and Google Chronicle
+## Querying log data with SIEM tools such as Splunk
+
+## Querying log data with SIEM tools such as Google Chronicle
 
 ## Analysing network traffic with Tcpdump
 
