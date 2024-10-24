@@ -6,9 +6,9 @@ layout: default
 
 ## Managing users, setting up an encrypted storage account, and configuring network security groups in Azure
 
-## Querying log data with SIEM tools such as Splunk
+## Querying log data with Splunk
 
-## Querying log data with SIEM tools such as Google Chronicle
+## Querying log data with Google Chronicle
 
 ## Analysing network traffic with Tcpdump
 
