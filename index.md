@@ -6,6 +6,9 @@ layout: default
 
 ## Managing users, setting up an encrypted storage account, and configuring network security groups in Azure
 
+<a href="pdfs/Azure Security Capstone Project.pdf" style="color: blue; text-decoration: underline;">Download</a>
+
+
 ## Querying log data with Splunk
 
 ## Querying log data with Google Chronicle
