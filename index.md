@@ -34,4 +34,5 @@ layout: default
 
 # Tools
 
- <img src="https://img.shields.io/badge/Wireshark-Network%20Protocol%20Analyzer-6CDAF7?style=for-the-badge" alt="Wireshark Badge">
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
