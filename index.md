@@ -49,3 +49,5 @@ layout: default
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
+<img src="https://img.shields.io/badge/-HTML5-E44D26?&style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+
