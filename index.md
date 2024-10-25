@@ -26,4 +26,8 @@ layout: default
    
 [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/sibilx-4153/4B4CD5531260EFB9?sharingId=6446970B27B3C086)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2450b82b-26f6-4a27-abda-4b99cfa96692" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>[CompTIA Security+ ]https://www.credly.com/badges/2450b82b-26f6-4a27-abda-4b99cfa96692/public_url
+[AZ-500 Exam Preparation Course Certificate](https://coursera.org/share/1cea389523f96f4f140da53a6436fd78)
+
+[CompTIA Security+ ](https://www.credly.com/badges/2450b82b-26f6-4a27-abda-4b99cfa96692/public_url)
+
+[Google Cybersecurity Certificate](https://coursera.org/share/33ea0cdd0cc47b39bbaa9f3f4231e195)
