@@ -1,9 +1,5 @@
 title: Sibil Hadzhitodorov's IT Portfolio
 description: A collection of my system administration, cybersecurity, and cloud computing projects.
-social_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/shadzhitodorov/
-    icon: fab fa-linkedin
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
