@@ -13,7 +13,7 @@ layout: default
 
 <a href="project_pdfs/Tcpdump Packet Analysis - Google VM.pdf" style="color: #0080ff; text-decoration: underline;">Analysing network traffic with Tcpdump</a>
 
-<a href="project_pdfs/Wireshark Packet Analysis - Google VM.pdf" style="color: #0080ff; text-decoration: underline;">Analysing network traffic with and Wireshark</a>
+<a href="project_pdfs/Wireshark Packet Analysis - Google VM.pdf" style="color: #0080ff; text-decoration: underline;">Analysing network traffic with Wireshark</a>
 
 <a href="project_pdfs/Algorithm-for-file-updates-in-Python_complete.pdf" style="color: #0080ff; text-decoration: underline;">Constructing a Python algorithm which updates a list of IP addresses with access to restricted content</a>
 
