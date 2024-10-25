@@ -4,7 +4,9 @@ layout: default
 
 # Key Projects
 
-<a href="project_pdfs/Azure Security Capstone Project.pdf" style="color: #0080ff; text-decoration: underline;">Managing users, setting up an encrypted storage account, and configuring network security groups in Azure
+<a href="" style="color: #0080ff; text-decoration: underline;"></a>
+
+<a href="Deploying and Configuring Microsoft Sentinel - Function App method.pdf" style="color: #0080ff; text-decoration: underline;">Deploying an RDP honeypot virtual machine and establishing an OSINT intelligence feed to Microsoft Sentinel with MISP.
 </a>
 
 <a href="project_pdfs/Performing Queries Using Splunk.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Splunk</a>
