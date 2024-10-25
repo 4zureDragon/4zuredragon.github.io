@@ -6,7 +6,7 @@ layout: default
 
 <a href="" style="color: #0080ff; text-decoration: underline;"></a>
 
-<a href="Deploying and Configuring Microsoft Sentinel - Function App method.pdf" style="color: #0080ff; text-decoration: underline;">Deploying an RDP honeypot virtual machine and establishing an OSINT intelligence feed to Microsoft Sentinel with MISP</a>
+<a href="project_pdfs/Deploying and Configuring Microsoft Sentinel - Function App method.pdf" style="color: #0080ff; text-decoration: underline;">Deploying an RDP honeypot virtual machine and establishing an OSINT intelligence feed to Microsoft Sentinel with MISP</a>
 
 <a href="project_pdfs/Performing Queries Using Splunk.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Splunk</a>
 
