@@ -31,3 +31,7 @@ layout: default
 [CompTIA Security+ ](https://www.credly.com/badges/2450b82b-26f6-4a27-abda-4b99cfa96692/public_url)
 
 [Google Cybersecurity Certificate](https://coursera.org/share/33ea0cdd0cc47b39bbaa9f3f4231e195)
+
+# Tools
+
+ <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Security%20Engineer%20Associate-0078D4?style=for-the-badge" alt="Azure Certification Badge">
