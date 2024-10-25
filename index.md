@@ -26,3 +26,6 @@ layout: default
 
 <a href="[https://learn.microsoft.com/api/credentials/share/en-gb/sibilx-4153/4B4CD5531260EFB9?sharingId=6446970B27B3C086]" target="_blank"> Microsoft Certified: Azure Security Engineer Associate</a>
    
+[Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/sibilx-4153/4B4CD5531260EFB9?sharingId=6446970B27B3C086).
+
+[Link to another page](./another-page.html).
