@@ -34,5 +34,4 @@ layout: default
 
 # Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo">
-        Azure
+ <img src="https://img.shields.io/badge/Wireshark-Network%20Protocol%20Analyzer-6CDAF7?style=for-the-badge" alt="Wireshark Badge">
