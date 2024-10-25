@@ -34,4 +34,5 @@ layout: default
 
 # Tools
 
- <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Security%20Engineer%20Associate-0078D4?style=for-the-badge" alt="Azure Certification Badge">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo">
+        Azure
