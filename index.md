@@ -23,7 +23,7 @@ layout: default
 <a href="project_pdfs/File-permissions-in-Linux_complete.pdf" style="color: #0080ff; text-decoration: underline;">Updating file permissions by using the Linux command line
 </a>
 
-# Certificates and Certifications
+# Certificates & Certifications
    
 [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/sibilx-4153/4B4CD5531260EFB9?sharingId=6446970B27B3C086)
 
