@@ -8,6 +8,8 @@ layout: default
 
 <a href="project_pdfs/Deploying and Configuring Microsoft Sentinel - Function App method.pdf" style="color: #0080ff; text-decoration: underline;">Deploying an RDP honeypot virtual machine and establishing an OSINT intelligence feed to Microsoft Sentinel with MISP</a>
 
+<a href="project_pdfs/Azure Security Capstone Project.pdf" style="color: #0080ff; text-decoration: underline;">Managing users, setting up an encrypted storage account, and configuring network security groups in Azure</a>
+
 <a href="project_pdfs/Performing Queries Using Splunk.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Splunk</a>
 
 <a href="project_pdfs/Performing Queries Using Google Chronicle.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Google Chronicle</a>
@@ -22,6 +24,8 @@ layout: default
  
 <a href="project_pdfs/File-permissions-in-Linux_complete.pdf" style="color: #0080ff; text-decoration: underline;">Updating file permissions by using the Linux command line
 </a>
+
+<a href="project_pdfs/Cybersecurity Documentation.pdf" style="color: #0080ff; text-decoration: underline;">Drafting cybersecurity documentation</a>
 
 # Certificates & Certifications
    
