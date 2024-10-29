@@ -52,6 +52,7 @@ layout: default
   <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Suricata-FF9933?&style=for-the-badge&logo=suricata&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-tcpdump-FF7F0E?&style=for-the-badge&logo=tcpdump&logoColor=white" />
 
