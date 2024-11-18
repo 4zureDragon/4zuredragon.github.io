@@ -10,7 +10,7 @@ layout: default
 
 <a href="project_pdfs/Azure Security Capstone Project.pdf" style="color: #0080ff; text-decoration: underline;">Managing users, setting up an encrypted storage account, and configuring network security groups in Azure</a>
 
-<a href="project_pdfs/Building a Traditional Active Directory Lab in Azure.pdf" style="color: #0080ff; text-decoration: underline;">Building a Traditional Active Directory Lab in Microsoft Azure</a>
+<a href="project_pdfs/Building a Traditional Active Directory Lab in Azure.pdf" style="color: #0080ff; text-decoration: underline;">Building a traditional Active Directory lab in Microsoft Azure</a>
 
 <a href="project_pdfs/Performing Queries Using Splunk.pdf" style="color: #0080ff; text-decoration: underline;">Querying log data with Splunk</a>
 
