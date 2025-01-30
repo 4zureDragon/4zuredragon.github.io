@@ -48,6 +48,7 @@ layout: default
   <img src="https://img.shields.io/badge/-HTML5-E44D26?&style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=shell&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -57,4 +58,3 @@ layout: default
   <img src="https://img.shields.io/badge/-Suricata-FF9933?&style=for-the-badge&logo=suricata&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-tcpdump-FF7F0E?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
