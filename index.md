@@ -59,5 +59,4 @@ layout: default
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-tcpdump-FF7F0E?&style=for-the-badge&logo=tcpdump&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=eye&logoColor=white" />
 
