@@ -60,6 +60,3 @@ layout: default
   <img src="https://img.shields.io/badge/-tcpdump-FF7F0E?&style=for-the-badge&logo=tcpdump&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firewall-FF5733?&style=for-the-badge&logo=firefox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firewall-2E86C1?&style=for-the-badge&logo=shield&logoColor=white" />
-
-
