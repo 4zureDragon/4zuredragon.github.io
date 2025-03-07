@@ -42,6 +42,7 @@ layout: default
 # Tools
 
   <img src="https://img.shields.io/badge/-Azure-008AD7?&style=for-the-badge&logo=azure&logoColor=white" />
+  [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-E34F26?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -56,9 +57,8 @@ layout: default
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Suricata-FF9933?&style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-CC0000?&style=for-the-badge&logo=alert&logoColor=CC0000&labelColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-tcpdump-FF7F0E?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snort-CC0000?&style=for-the-badge&logo=alert&logoColor=CC0000&labelColor=white" />
 
 
